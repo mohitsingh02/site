@@ -1,0 +1,56 @@
+body{
+    overflow-x: hidden;
+    
+}
+.carousel{
+    width: 100vw;
+    height: 100vh;
+}
+.card{
+    float: left;
+}
+.dropdown-menu{
+    background-color: rgba(255, 255, 255, .6);
+    margin-top: 0px;
+}
+.dropdown-item{
+   font-weight: bold;
+    
+}
+.nav-link:hover{
+    color: red!important;
+}
+.Cb{
+    float: right;
+}
+.bimg{
+    background-image: url(bgnum.jpeg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+     
+}
+.num{
+    background-color: rgba(248, 18, 18, 0.2);
+}
+.tet{
+   color: rgb(255, 219, 16); 
+   font-weight: bolder;
+   font-size: x-large;
+}
+.sbimg{
+    background-image: url(Koala6.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat; 
+}
+.num2{
+    background-color: rgba(255, 255, 255, 0.8);
+}
+.carousel-control-prev-icon{
+    background-color: black;
+}
+.carousel-control-next-icon{
+    background-color: black;
+}
+
